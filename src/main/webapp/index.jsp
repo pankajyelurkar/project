@@ -11,7 +11,7 @@ ter<%@page contentType="text/html" pageEncoding="UTF-8"%>
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Welcome Login Page 22 </th>
+                        <th colspan="2">Welcome Login Page - Testing Trigger</th>
                     </tr>
                 </thead>
                 <tbody>
